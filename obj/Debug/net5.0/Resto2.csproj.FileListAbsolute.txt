@@ -1,0 +1,16 @@
+/home/gabi/Desktop/Desafios C#/Resto2/Resto2/bin/Debug/net5.0/Resto2
+/home/gabi/Desktop/Desafios C#/Resto2/Resto2/bin/Debug/net5.0/Resto2.deps.json
+/home/gabi/Desktop/Desafios C#/Resto2/Resto2/bin/Debug/net5.0/Resto2.runtimeconfig.json
+/home/gabi/Desktop/Desafios C#/Resto2/Resto2/bin/Debug/net5.0/Resto2.runtimeconfig.dev.json
+/home/gabi/Desktop/Desafios C#/Resto2/Resto2/bin/Debug/net5.0/Resto2.dll
+/home/gabi/Desktop/Desafios C#/Resto2/Resto2/bin/Debug/net5.0/ref/Resto2.dll
+/home/gabi/Desktop/Desafios C#/Resto2/Resto2/bin/Debug/net5.0/Resto2.pdb
+/home/gabi/Desktop/Desafios C#/Resto2/Resto2/obj/Debug/net5.0/Resto2.csprojAssemblyReference.cache
+/home/gabi/Desktop/Desafios C#/Resto2/Resto2/obj/Debug/net5.0/Resto2.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabi/Desktop/Desafios C#/Resto2/Resto2/obj/Debug/net5.0/Resto2.AssemblyInfoInputs.cache
+/home/gabi/Desktop/Desafios C#/Resto2/Resto2/obj/Debug/net5.0/Resto2.AssemblyInfo.cs
+/home/gabi/Desktop/Desafios C#/Resto2/Resto2/obj/Debug/net5.0/Resto2.csproj.CoreCompileInputs.cache
+/home/gabi/Desktop/Desafios C#/Resto2/Resto2/obj/Debug/net5.0/Resto2.dll
+/home/gabi/Desktop/Desafios C#/Resto2/Resto2/obj/Debug/net5.0/ref/Resto2.dll
+/home/gabi/Desktop/Desafios C#/Resto2/Resto2/obj/Debug/net5.0/Resto2.pdb
+/home/gabi/Desktop/Desafios C#/Resto2/Resto2/obj/Debug/net5.0/Resto2.genruntimeconfig.cache
